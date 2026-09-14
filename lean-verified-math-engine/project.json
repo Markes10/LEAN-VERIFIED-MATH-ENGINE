@@ -1,0 +1,8 @@
+{
+  "id": "25",
+  "name": "25-lean-verified-math-engine",
+  "title": "Verified Engineering Mathematics Engine",
+  "language": "Lean",
+  "domain": "Formal Verification & Structural Engineering Mathematics",
+  "description": "Formally verified Euler-Bernoulli beam calculus and civil engineering mechanics with interactive theorem proofs in Lean 4."
+}
