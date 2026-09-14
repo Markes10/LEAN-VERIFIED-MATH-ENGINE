@@ -1,7 +1,7 @@
-# 25 - Formally Verified Structural Mechanics Engine (Lean 4)
+# Formally Verified Structural Mechanics Engine (Lean 4)
 
 ## Executive Overview
-A formally verified civil and aerospace mechanics engine written in **Lean 4**. It formalizes the **Euler-Bernoulli continuous beam bending differential equation** and mathematically proves boundary condition theorems, cantilever deflection limits, and internal shear force invariants with machine-checked rigor.
+A formally verified civil and aerospace mechanics engine written in **Lean 4**. It formalises the **Euler-Bernoulli continuous beam-bending differential equation** and mathematically proves boundary-condition theorems, cantilever deflection limits, and internal shear-force invariants with machine-checked rigour.
 
 ## Theorem Proving Workflow
 
